@@ -3,7 +3,7 @@
 **Event**: Watch the Road 2017     
 **Organizer**: [Indian Road Safety Campaign](https://www.mygov.in/campaigns/national-road-safety/)    
 **Competition**: National-level internship program involving multiple teams working on road safety challenges across India    
-**Team Members**: Sai Kumar Aili, Hima Varsha Pulipaka, Lakshmi Sravani, Nikitha Y
+**Team Members**: Sai Kumar Aili, Hima Varsha Pulipaka, Lakshmi Sravani, Nikitha Y     
 **Date**: 22 April 2018
 
 ## Problem Context and Importance
