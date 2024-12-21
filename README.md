@@ -1,7 +1,7 @@
 # Traffic Study
 ## About
 **Event**: Watch the Road 2017     
-**Organizer**: Indian Road Safety Campaign    
+**Organizer**: [Indian Road Safety Campaign](https://www.mygov.in/campaigns/national-road-safety/)    
 **Competition**: National-level internship program involving multiple teams working on road safety challenges across India    
 **Team Members**: Sai Kumar Aili, Hima Varsha Pulipaka, Lakshmi Sravani, Nikitha Y
 **Date**: 22 April 2018
@@ -106,9 +106,10 @@ We are pleased to announce that our work and proposed solutions for addressing t
 We extend our gratitude to the Hyderabad Traffic Police, GHMC (Greater Hyderabad Municipal Corporation), and all local authorities who supported this study. Special thanks to the residents and commuters of L.B Nagar and Amberpet areas for their valuable input throughout the project.
 
 ## Conclusion
-In conclusion, our project, "Watch the Road 2017," conducted under the Indian Road Safety Campaign, successfully identified critical road safety issues in Hyderabad, particularly along the Inner Ring Road and National Highway 163. Through comprehensive data collection, statistical analysis, and community engagement, we were able to pinpoint the main causes of accidents and propose effective solutions aimed at improving road safety.    
-Our work not only highlighted the pressing need for infrastructure improvements and enhanced traffic management strategies but also emphasized the importance of public awareness regarding traffic rules. The recommendations made in this study, including the implementation of sensor-operated traffic signals and improved pedestrian facilities, aim to create a safer environment for all road users.    
+In conclusion, our project, "Watch the Road 2017," conducted under the Indian Road Safety Campaign, successfully identified critical road safety issues in Hyderabad, particularly along the Inner Ring Road and National Highway 163. Through comprehensive data collection, statistical analysis, and community engagement, we were able to pinpoint the main causes of accidents and propose effective solutions aimed at improving road safety.
 
-![IRSC Award](img/irsc-award.jpeg)
+Our work not only highlighted the pressing need for infrastructure improvements and enhanced traffic management strategies but also emphasized the importance of public awareness regarding traffic rules. The recommendations made in this study, including the implementation of sensor-operated traffic signals and improved pedestrian facilities, aim to create a safer environment for all road users.
 
 We are proud to announce that our project was ranked 2nd in the annual competition held by the Indian Road Safety Campaign, earning us a cash prize. This recognition reflects our commitment to addressing road safety challenges and our dedication to making a meaningful impact in our community.
+
+![IRSC Award](img/irsc-award.jpeg)
